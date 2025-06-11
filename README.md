@@ -33,6 +33,11 @@ seu-projeto/
 └── dashboard.py
 ```
 
+## DataBase
+
+Primeiro você precisa criar uma pasta com o nome de database e depois baixar e salvar nessa pasta os arquivos csv do [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) que ao todo são 9 arquivos.
+
+
 ## 🛠️ Pré-requisitos e Instalação
 
 Antes de rodar os scripts, é necessário instalar todas as bibliotecas Python utilizadas.
